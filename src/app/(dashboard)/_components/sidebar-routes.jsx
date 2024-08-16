@@ -9,7 +9,7 @@ const Route = [
     { loc: "/invoice.svg", label: "Invoice", href: "/invoice" },
     { loc: "/schedule.svg", label: "Schedule", href: "/schedule" },
     { loc: "/notification.svg", label: "Notification", href: "/notification" },
-    { loc: "/setting.svg", label: "Setting", href: "/settings" },
+    { loc: "/setting.svg", label: "Setting", href: "/setting" },
 ];
 
 export const SidebarRoutes = ({ isCollapsed }) => {
